@@ -1,0 +1,2 @@
+# jijie
+personal notes. 
